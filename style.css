@@ -1,0 +1,3357 @@
+#main {
+    width: 100%;
+    min-height: 100%;
+    overflow: hidden;
+}
+
+#section1 {
+    height: 778.216px;
+}
+
+.ladi-section {
+    margin: 0 auto;
+    position: relative;
+}
+
+.ladi-section .ladi-container {
+    position: relative;
+}
+
+#section1>.ladi-background {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url(https://w.ladicdn.com/s1440x778/62fa0cac2d1a9600212f9e52/bg-mb-20220906132710.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.ladi-section .ladi-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.ladi-container {
+    position: relative;
+    margin: 0 auto;
+    width: 960px;
+    height: 100%;
+}
+
+.ladi-element {
+    position: absolute;
+}
+
+#logo {
+    position: absolute;
+    width: 116px;
+    height: 49px;
+    top: 30px;
+    left: 0px;
+}
+
+.ladi-logo .ladi-logo-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://w.ladicdn.com/s450x350/62fa0cac2d1a9600212f9e52/funix-full-logo-white-copy-1-20220905124907.png);
+    background-position: left top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    pointer-events: none;
+}
+
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#contact {
+    width: 115px;
+    height: 27px;
+    top: 45px;
+    left: 845px;
+}
+
+.ladi-contact {
+    width: 115px;
+    height: 27px;
+}
+
+#hotline {
+    top: 5px;
+    right: 10px;
+}
+
+.ladi-hotline {
+    width: 101px;
+    height: 27px;
+    top: 0px;
+    left: 14px;
+}
+
+#hotline-text {
+    width: 101px;
+    top: 8px;
+    left: 0px;
+}
+
+.ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: right;
+    line-height: .785714;
+}
+
+#contact-shape {
+    width: 20.2523px;
+    height: 25px;
+    top: 1px;
+    left: -5px;
+}
+
+#grouptitle {
+    width: 568px;
+    height: 149.25px;
+    top: 154px;
+    left: 0px;
+}
+
+#maintitle {
+    width: 568px;
+    top: 0px;
+    left: 0px;
+}
+
+#maintitle>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 55px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+    text-shadow: #f2430d 1px 1px 3px;
+}
+
+#maintitle1 {
+    width: 339px;
+    top: 85.25px;
+    left: 200px;
+}
+
+#maintitle1>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#grouptitle1 {
+    width: 194.016px;
+    height: 58px;
+    top: 85.25px;
+    left: 0px;
+}
+
+#boxtitle {
+    width: 194.016px;
+    height: 56px;
+    top: 0px;
+    left: 0px;
+}
+
+#boxtitle>.ladi-box {
+    background-color: #f27123;
+}
+
+.ladi-box {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#maintitle2 {
+    width: 170px;
+    top: 2px;
+    left: 19.008px;
+}
+
+#maintitle2>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 34.76px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#paragraph1 {
+    width: 232px;
+    top: 309.144px;
+    left: 0px;
+}
+
+#paragraph1>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #eee;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#groupinfo {
+    width: 173.929px;
+    height: 121.893px;
+    top: 387.129px;
+    left: 0px;
+}
+
+#maintitle3 {
+    width: 120px;
+    top: 21.2284px;
+    left: 53.929px;
+}
+
+#maintitle3>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+    width: 100%;
+    display: inline-block;
+    word-break: break-word;
+    background-size: cover;
+    background-position: center center;
+}
+
+#maintitle4 {
+    width: 53px;
+    top: 0px;
+    left: 20.5178px;
+}
+
+#maintitle4>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 55px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#groupinfo1 {
+    width: 167.056px;
+    height: 48.2183px;
+    top: 73.6747px;
+    left: 0px;
+}
+
+#boxinfo {
+    width: 167.056px;
+    height: 48.2183px;
+    top: 0px;
+    left: 0px;
+}
+
+#boxinfo>.ladi-box {
+    background-color: #fff;
+}
+
+#maintitle5 {
+    width: 167px;
+    top: 2.90792px;
+    left: 0px;
+}
+
+#maintitle5>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#groupinfo2 {
+    width: 194px;
+    height: 123.082px;
+    top: 387.144px;
+    left: 173.929px;
+}
+
+#maintitle6 {
+    width: 194px;
+    top: 0px;
+    left: 0px;
+}
+
+#maintitle6>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 55px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#groupinfo3 {
+    width: 167.056px;
+    height: 48.2181px;
+    top: 74.8638px;
+    left: 13.6187px;
+}
+
+#boxinfo1 {
+    width: 167.056px;
+    height: 48.2181px;
+    top: 0px;
+    left: 0px;
+}
+
+#boxinfo1>.ladi-box {
+    background-color: #fff;
+}
+
+#maintitle7 {
+    width: 167px;
+    top: 0px;
+    left: 0px;
+}
+
+#maintitle7>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#paragraph2 {
+    width: 427px;
+    top: 535.022px;
+    left: 0px;
+}
+
+#paragraph2>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #eee;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+
+
+/* form */
+#form {
+    width: 547.833px;
+    height: 148.75px;
+    top: 606.022px;
+    left: -188.904px;
+}
+
+#form>.ladi-form {
+    color: #848484;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1.6;
+}
+
+#form .ladi-form-item .ladi-form-control::placeholder,
+#form .ladi-form .ladi-form-item.ladi-form-checkbox .ladi-form-checkbox-item span[data-checked="false"] {
+    color: rgba(132, 132, 132, 1.0)
+}
+
+#form .ladi-form-item {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#form .ladi-form-item.otp-countdown:before {
+    right: 13px
+}
+
+#form .ladi-form-item.ladi-form-checkbox {
+    padding-left: 13px;
+    padding-right: 13px
+}
+
+#form .ladi-form-item-container .ladi-form-item .ladi-form-control-select {
+    background-image: url(data:image/svg+xml;utf8,\ %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20width%3D%2232%22%20height%3D%2224%22%20viewBox%3D%220%200%2032%2024%22%3E%3Cpolygon%20points%3D%220%2C0%2032%2C0%2016%2C24%22%20style%3D%22fill%3A%20rgb\(132%2C%20132%2C%20132\)%22%3E%3C%2Fpolygon%3E%3C%2Fsvg%3E)
+}
+
+#form .ladi-survey-option {
+    text-align: left
+}
+
+#form .ladi-form-item-container,
+#form .ladi-form-label-container .ladi-form-label-item {
+    border-color: #0a67e9;
+    border-width: 1px;
+    border-radius: 0px;
+}
+
+#form .ladi-form-item-container .ladi-form-item.ladi-form-quantity {
+    width: calc(100% + 1px)
+}
+
+#form .ladi-form-item-container .ladi-form-quantity .button {
+    background-color: #0a67e9
+}
+
+#form .ladi-form-item-background {
+    background-color: #fff
+}
+
+#form_mail {
+    width: 172.935px;
+    height: 40px;
+    top: 48px;
+    left: 374.866px;
+}
+
+#form_phone {
+    width: 169.989px;
+    height: 40px;
+    top: 48px;
+    left: 195.784px;
+}
+
+#form .ladi-form-item.ladi-form-checkbox {
+    padding-left: 13px;
+    padding-right: 13px
+}
+
+.ladi-form {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#button {
+    width: 352.017px;
+    height: 40px;
+    top: 108.75px;
+    left: 195.816px;
+}
+
+.ladi-form>.ladi-element {
+    text-transform: inherit;
+    text-decoration: inherit;
+    text-align: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    background-size: inherit;
+    background-attachment: inherit;
+    background-origin: inherit;
+}
+
+#button>.ladi-button {
+    border-radius: 0px;
+}
+
+.ladi-button {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#button>.ladi-button>.ladi-button-background {
+    background-color: #f27123;
+}
+
+.ladi-button .ladi-button-background {
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+    transition: inherit;
+}
+
+#button_text {
+    width: 352px;
+    top: 9px;
+    left: 0px;
+}
+
+.ladi-form .ladi-button>.ladi-button-headline {
+    color: initial;
+    font-size: initial;
+    font-weight: initial;
+    text-transform: initial;
+    text-decoration: initial;
+    font-style: initial;
+    text-align: initial;
+    letter-spacing: initial;
+    line-height: initial;
+}
+
+#button_text>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.ladi-form .ladi-button .ladi-headline {
+    cursor: pointer;
+    user-select: none;
+}
+
+#form_name {
+    width: 350.722px;
+    height: 40px;
+    top: 0px;
+    left: 195.816px;
+}
+
+
+.ladi-form .ladi-form-item-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#form .ladi-form-item-background {
+    background-color: #fff;
+}
+
+.ladi-form>.ladi-element .ladi-form-item-container .ladi-form-item-background {
+    background-size: inherit;
+    background-attachment: inherit;
+    background-origin: inherit;
+}
+
+#form_item {
+    width: 184.83px;
+    height: 35px;
+    top: 60px;
+    left: 0px;
+    display: none !important;
+}
+
+#image_girl {
+    width: 552.792px;
+    height: 676.062px;
+    top: 102.154px;
+    left: 407.208px;
+}
+
+.ladi-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+#image_girl>.ladi-image>.ladi-image-background {
+    width: 552.794px;
+    height: 979.125px;
+    top: 0px;
+    left: -0.002321px;
+    background-image: url(https://w.ladicdn.com/s900x1300/62fa0cac2d1a9600212f9e52/young-asian-businesswoman-using-laptop-white-background-20220905143137.png);
+}
+
+.ladi-image .ladi-image-background {
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.ladi-section .ladi-container {
+    width: 960px;
+}
+
+#section2 {
+    height: 662.9px;
+}
+
+.ladi-container {
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+}
+
+#image_info {
+    width: 419.621px;
+    height: 421.3px;
+    top: 15.705px;
+    left: 0px;
+}
+
+#image_info>.ladi-image>.ladi-image-background {
+    width: 419.621px;
+    height: 421.3px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s750x750/5b1605af9066d9507109d716/professional-20201005083729-20221110022432-i26z3.png);
+}
+
+.ladi-image .ladi-image-background {
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+#headline_2 {
+    width: 483px;
+    top: 45.805px;
+    left: 477px;
+}
+
+#headline_2>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#group_headline1 {
+    width: 483px;
+    height: 74px;
+    top: 197.855px;
+    left: 477px;
+}
+
+#para1 {
+    width: 483px;
+    top: 29px;
+    left: 0px;
+}
+
+#para1>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #424242;
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+.ladi-paragraph {
+    width: 100%;
+    display: inline-block;
+    word-break: break-word;
+}
+
+#para2 {
+    width: 474px;
+    top: 0px;
+    left: 0px;
+}
+
+#para2>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#group_headline2 {
+    width: 483px;
+    height: 119px;
+    top: 298.855px;
+    left: 477px;
+}
+
+#para3 {
+    width: 483px;
+    top: 29px;
+    left: 0px;
+}
+
+#para3>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #424242;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+#para4 {
+    width: 474px;
+    top: 0px;
+    left: 0px;
+}
+
+#para4>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#group_headline3 {
+    width: 961px;
+    top: 453.4px;
+    left: 0px;
+}
+
+#group_headline3>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.2;
+}
+
+.ladi-headline {
+    width: 100%;
+    display: inline-block;
+    word-break: break-word;
+    background-size: cover;
+    background-position: center center;
+}
+
+#btn_reg {
+    width: 229.036px;
+    height: 45px;
+    top: 585px;
+    left: 688.982px;
+}
+
+#btn_reg>.ladi-button {
+    border-style: solid;
+    border-color: #0a509b;
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#btn_reg>.ladi-button .ladi-button-background {
+    transition: all 150ms linear 0s;
+}
+
+#btn_reg>.ladi-button>.ladi-button-background {
+    background-color: rgba(242, 113, 35, 0);
+}
+
+.ladi-button .ladi-button-background {
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+    transition: inherit;
+}
+
+#btn_regtext {
+    width: 227px;
+    top: 9px;
+    left: 0px;
+}
+
+#btn_regtext>.ladi-headline {
+    color: #0a509b;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#group_headline4 {
+    width: 598px;
+    top: 585px;
+    left: 15.943px;
+}
+
+#group_headline4>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #f27123;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#section3 {
+    height: 617.684px;
+}
+
+#section3>.ladi-section-background {
+    background-color: #eaf2fe;
+}
+
+.ladi-section .ladi-container {
+    width: 960px;
+}
+
+.ladi-section .ladi-section-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+#imagefunix {
+    width: 793.99px;
+    height: 618.684px;
+    top: -1px;
+    left: 369.414px;
+}
+
+#imagefunix>.ladi-image {
+    border-radius: 0px;
+}
+
+#imagefunix>.ladi-image>.ladi-image-background {
+    width: 848.38px;
+    height: 848.38px;
+    top: -224.996px;
+    left: -4.403px;
+    background-image: url(https://w.ladicdn.com/s1150x1150/5b1605af9066d9507109d716/16-dn-20221004012409-0x3zp.jpg);
+}
+
+.ladi-image .ladi-image-background {
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.ladi-section .ladi-container {
+    width: 960px;
+}
+
+#group_headline5 {
+    width: 378.978px;
+    height: 103.815px;
+    top: 132.481px;
+    left: -22.9781px;
+}
+
+#para5 {
+    width: 356px;
+    top: 19.815px;
+    left: 22.9781px;
+}
+
+#para5>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+
+#shape_para {
+    width: 22.9781px;
+    height: 31.8565px;
+    top: 0px;
+    left: 0px;
+}
+
+.ladi-shape {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+#box_para {
+    width: 489.943px;
+    height: 295.863px;
+    top: 262.772px;
+    left: 0px;
+}
+
+#box_para>.ladi-box {
+    background-color: #0a509b;
+}
+
+#btn_tht {
+    width: 170px;
+    height: 40px;
+    top: 499.5px;
+    left: 39px;
+}
+
+#btn_tht>.ladi-button {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#list_para {
+    width: 436px;
+    top: 294.772px;
+    left: 45px;
+}
+
+#list_para>.ladi-list-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.ladi-list-paragraph {
+    width: 100%;
+    display: inline-block;
+}
+
+ul {
+    list-style: none;
+}
+
+#list_para ul li {
+    padding-left: 15px;
+}
+
+#list_para ul li:before {
+    content: counter(linum, disc);
+    font-size: 20px;
+    top: -4px;
+}
+
+#btn_thttext {
+    width: 168px;
+    top: 9px;
+    left: 0px;
+}
+
+#btn_thttext>.ladi-headline {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#section4 {
+    height: 638.6px;
+}
+
+.ladi-section .ladi-container {
+    width: 960px;
+}
+
+#group_headline6 {
+    width: 965px;
+    height: 291.576px;
+    top: 182.583px;
+    left: -5px;
+}
+
+#box_tk {
+    width: 960px;
+    height: 18px;
+    top: 273.576px;
+    left: 5px;
+}
+
+#box_tk>.ladi-box {
+    background-color: rgba(6, 34, 75, .2);
+    border-radius: 1000px;
+}
+
+#group_tk {
+    width: 247.529px;
+    height: 287.076px;
+    top: 1px;
+    left: 0px;
+}
+
+#shape_tk1 {
+    width: 11px;
+    height: 11px;
+    top: 276.076px;
+    left: 33px;
+}
+
+#shape_tk2 {
+    width: 76.5294px;
+    height: 66.1518px;
+    top: 0px;
+    left: 0px;
+}
+
+#line_tk {
+    height: 199px;
+    top: 73.576px;
+    left: 29.2647px;
+}
+
+#line_tk>.ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+
+.ladi-line .ladi-line-container {
+    border-bottom: 0 !important;
+    border-right: 0 !important;
+    width: 100%;
+    height: 100%;
+}
+
+#line_tk>.ladi-line>.ladi-line-container {
+    border-top: 0px !important;
+    border-right: 2px dashed rgba(6, 34, 75, .2);
+    border-bottom: 2px dashed rgba(6, 34, 75, .2);
+    border-left: 2px dashed rgba(6, 34, 75, .2);
+}
+
+#list_para1 {
+    width: 184px;
+    top: 116.238px;
+    left: 51px;
+}
+
+#list_para1>.ladi-list-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+#list_para1 ul li {
+    padding-bottom: 13px;
+    padding-left: 18px;
+}
+
+#list_para1 ul li:before {
+    content: counter(linum, disc);
+    color: rgba(5, 34, 74, 1.0);
+    font-size: 20px;
+    top: -3px;
+}
+
+#shape_img {
+    width: 31.3411px;
+    height: 31.3411px;
+    top: 17.405px;
+    left: 22.6589px;
+}
+
+#para6 {
+    width: 180px;
+    top: 88.314px;
+    left: 67.5294px;
+}
+
+#para6>.ladi-paragraph {
+    font-family: "Open Sans", sans-serif;
+    color: #0a509b;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#group_tk1 {
+    width: 248px;
+    height: 287.076px;
+    top: 1px;
+    left: 223.667px;
+}
+
+#shape_tk3 {
+    width: 76.5294px;
+    height: 66.1518px;
+    top: 0px;
+    left: 0px;
+}
+
+#line_tk1 {
+    height: 199px;
+    top: 73.576px;
+    left: 29.265px;
+}
+
+#line_tk1>.ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+
+#line_tk1>.ladi-line>.ladi-line-container {
+    border-top: 0px !important;
+    border-right: 2px dashed rgba(6, 34, 75, .2);
+    border-bottom: 2px dashed rgba(6, 34, 75, .2);
+    border-left: 2px dashed rgba(6, 34, 75, .2);
+}
+
+#list_para2 {
+    width: 197px;
+    top: 116.238px;
+    left: 51px;
+}
+
+#para7 {
+    width: 180px;
+    top: 88.314px;
+    left: 67.5294px;
+}
+
+#para7>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#shape_img1 {
+    width: 31.3411px;
+    height: 31.3411px;
+    top: 17.405px;
+    left: 22.594px;
+}
+
+#shape_dot {
+    width: 11px;
+    height: 11px;
+    top: 276.076px;
+    left: 32.265px;
+}
+
+#group_tk2 {
+    width: 248px;
+    height: 287.076px;
+    top: 0.5px;
+    left: 452px;
+}
+
+#shape_tk4 {
+    width: 76.5294px;
+    height: 66.1518px;
+    top: 0px;
+    left: 0px;
+}
+
+#line_tk2 {
+    height: 199px;
+    top: 73.576px;
+    left: 29.265px;
+}
+
+#line_tk2>.ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+
+#line_tk2>.ladi-line>.ladi-line-container {
+    border-top: 0px !important;
+    border-right: 2px dashed rgba(6, 34, 75, .2);
+    border-bottom: 2px dashed rgba(6, 34, 75, .2);
+    border-left: 2px dashed rgba(6, 34, 75, .2);
+}
+
+#list_para3 {
+    width: 197px;
+    top: 119.076px;
+    left: 51px;
+}
+
+#list_para3>.ladi-list-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+#list_para3 ul li {
+    padding-bottom: 13px;
+    padding-left: 18px;
+}
+
+#list_para3 ul li:before {
+    content: counter(linum, disc);
+    color: rgba(5, 34, 74, 1.0);
+    font-size: 20px;
+    top: -3px;
+}
+
+#para8 {
+    width: 180px;
+    top: 91.152px;
+    left: 67.5294px;
+}
+
+#para8>.ladi-paragraph {
+    font-family: "Open Sans", sans-serif;
+    color: #073a91;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#shape_img2 {
+    width: 35.8637px;
+    height: 35.8638px;
+    top: 10.212px;
+    left: 20.731px;
+}
+
+#shape_dot1 {
+    width: 11px;
+    height: 11px;
+    top: 276.076px;
+    left: 32.765px;
+}
+
+#group_tk3 {
+    width: 247.529px;
+    height: 288.076px;
+    top: 0px;
+    left: 688px;
+}
+
+#shape_tk5 {
+    width: 76.5294px;
+    height: 66.1518px;
+    top: 0px;
+    left: 0px;
+}
+
+#line_tk3 {
+    height: 199px;
+    top: 73.576px;
+    left: 29.265px;
+}
+
+#line_tk3>.ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+
+#line_tk3>.ladi-line>.ladi-line-container {
+    border-top: 0px !important;
+    border-right: 2px dashed rgba(6, 34, 75, .2);
+    border-bottom: 2px dashed rgba(6, 34, 75, .2);
+    border-left: 2px dashed rgba(6, 34, 75, .2);
+}
+
+#list_para4 {
+    width: 200px;
+    top: 118.076px;
+    left: 44.765px;
+}
+
+#list_para4>.ladi-list-paragraph {
+    color: #616161;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+#list_para4 ul li:before {
+    content: counter(linum, disc);
+    color: rgba(5, 34, 74, 1.0);
+    font-size: 20px;
+    top: -3px;
+}
+
+#list_para4 ul li {
+    padding-bottom: 13px;
+    padding-left: 18px;
+}
+
+#para9 {
+    width: 189px;
+    top: 67.152px;
+    left: 67.5294px;
+}
+
+#para9>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #073a91;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#shape_img3 {
+    width: 27.341px;
+    height: 27.3411px;
+    top: 18.405px;
+    left: 25.595px;
+}
+
+#shape_dot2 {
+    width: 11px;
+    height: 11px;
+    top: 277.076px;
+    left: 33.765px;
+}
+
+#group_headline7 {
+    width: 502px;
+    height: 95.05px;
+    top: 56.221px;
+    left: 229px;
+}
+
+#headline7_1 {
+    width: 460px;
+    top: 0px;
+    left: 21px;
+}
+
+#headline7_1>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#para7_1 {
+    width: 502px;
+    top: 44.05px;
+    left: 0px;
+}
+
+#para7_1>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #424242;
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#group_headline8 {
+    width: 705px;
+    top: 510.221px;
+    left: 127.5px;
+}
+
+#group_headline8>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #f27123;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#section5 {
+    height: 911px;
+}
+
+#section5>.ladi-section-background {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url(https://w.ladicdn.com/s1440x911/62fa0cac2d1a9600212f9e52/06_01_2022_9-20220906092708.jpg);
+    background-position: left top;
+    background-repeat: no-repeat;
+    opacity: .5;
+}
+
+#section5>.ladi-overlay {
+    background-color: #fff;
+    opacity: .5;
+    mix-blend-mode: multiply;
+    will-change: transform, opacity;
+}
+
+#headline9 {
+    width: 806px;
+    top: 66.379px;
+    left: 77px;
+}
+
+#headline9>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#headline10 {
+    width: 841px;
+    top: 109.379px;
+    left: 59.5px;
+}
+
+#headline10>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#group_headline9 {
+    width: 226.75px;
+    height: 40px;
+    top: 316.577px;
+    left: 519.5px;
+}
+
+#headline11 {
+    width: 180px;
+    top: 0px;
+    left: 46.75px;
+}
+
+#headline11>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#shape_img4 {
+    width: 41px;
+    height: 39px;
+    top: 1px;
+    left: 0px;
+}
+
+#box_dot {
+    width: 20px;
+    height: 20px;
+    top: 514.573px;
+    left: 470px;
+}
+
+#box_dot>.ladi-box {
+    background-color: #0a509b;
+    border-radius: 220px;
+}
+
+#group_headline10 {
+    width: 182.762px;
+    height: 39px;
+    top: 179.569px;
+    left: 264.219px;
+}
+
+#headline12 {
+    width: 138px;
+    top: 0px;
+    left: 0px;
+}
+
+#headline12>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+    line-height: 1.2;
+}
+
+#shape_img5 {
+    width: 37.1462px;
+    height: 39px;
+    top: 0px;
+    left: 145.616px;
+}
+
+#group_headline11 {
+    width: 253.146px;
+    height: 39px;
+    top: 515.073px;
+    left: 196.835px;
+}
+
+#headline13 {
+    width: 210px;
+    top: 0px;
+    left: 0px;
+}
+
+#headline13>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+    line-height: 1.2;
+}
+
+#shape_img6 {
+    width: 37.1462px;
+    height: 39px;
+    top: 0px;
+    left: 216px;
+}
+
+#box_line {
+    width: 9.6px;
+    height: 140px;
+    top: 362.577px;
+    left: 475.2px;
+}
+
+#box_line>.ladi-box {
+    background-color: #e0e0e0;
+}
+
+#box_dot1 {
+    width: 20px;
+    height: 20px;
+    top: 332.573px;
+    left: 470px;
+}
+
+#box_dot1>.ladi-box {
+    background-color: #0a509b;
+    border-radius: 220px;
+}
+
+#box_text {
+    width: 391.5px;
+    height: 110.008px;
+    top: 179.567px;
+    left: 518.5px;
+}
+
+#box_text>.ladi-box {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+#list_para5 {
+    width: 311px;
+    top: 190.567px;
+    left: 541.25px;
+}
+
+#list_para5>.ladi-list-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #424242;
+    font-size: 14px;
+    line-height: 1.1;
+}
+
+#list_para5 ul li {
+    padding-left: 15px;
+}
+
+#list_para5 ul li:before {
+    content: counter(linum, disc);
+    font-size: 20px;
+    top: -4px;
+}
+
+#box_text1 {
+    width: 387.481px;
+    height: 153.992px;
+    top: 322.577px;
+    left: 59.5px;
+}
+
+#box_text1>.ladi-box {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+#list_para6 {
+    width: 295px;
+    top: 354.573px;
+    left: 95.74px;
+}
+
+#list_para6>.ladi-list-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #424242;
+    font-size: 14px;
+    line-height: 1.1;
+}
+
+#list_para6 ul li {
+    padding-left: 15px;
+}
+
+#list_para6 ul li:before {
+    content: counter(linum, disc);
+    font-size: 20px;
+    top: -4px;
+}
+
+#box_text2 {
+    width: 389.5px;
+    height: 128.997px;
+    top: 514.576px;
+    left: 518.5px;
+}
+
+#box_text2>.ladi-box {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+#list_para7 {
+    width: 279px;
+    top: 534.573px;
+    left: 552.25px;
+}
+
+#list_para7>.ladi-list-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #424242;
+    font-size: 14px;
+    line-height: 1.1;
+}
+
+#list_para7 ul li {
+    padding-left: 15px;
+}
+
+#list_para7 ul li:before {
+    content: counter(linum, disc);
+    font-size: 20px;
+    top: -4px;
+}
+
+#box_line1 {
+    width: 12px;
+    height: 120px;
+    top: 203.573px;
+    left: 474px;
+}
+
+#box_line1>.ladi-box {
+    background-color: #e0e0e0;
+}
+
+#box_dot2 {
+    width: 20px;
+    height: 20px;
+    top: 179.569px;
+    left: 470px;
+}
+
+#box_dot2>.ladi-box {
+    background-color: #0a509b;
+    border-radius: 220px;
+}
+
+#btn_tv {
+    width: 213px;
+    height: 40px;
+    top: 719.073px;
+    left: 558.25px;
+}
+
+#btn_tv>.ladi-button {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#btn_tv>.ladi-button>.ladi-button-background {
+    background-color: #f27123;
+}
+
+#btn_tvtext {
+    width: 211px;
+    top: 9px;
+    left: 0px;
+}
+
+#btn_tvtext>.ladi-headline {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#list_para8 {
+    width: 418px;
+    top: 643.573px;
+    left: 59.5px;
+}
+
+#list_para8>.ladi-list-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #424242;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+#list_para8 ul li {
+    padding-left: 15px;
+}
+
+#list_para8 ul li:before {
+    content: counter(linum, none);
+    font-size: 20px;
+    top: -4px;
+}
+
+#section6 {
+    height: 519.6px;
+}
+
+#section6>.ladi-section-background {
+    background-color: #eaf2ff;
+}
+
+#group6 {
+    width: 650px;
+    height: 74px;
+    top: 329.546px;
+    left: 287.329px;
+}
+
+#group6_1 {
+    width: 650px;
+    height: 74px;
+    top: 0px;
+    left: 0px;
+}
+
+#box6 {
+    width: 632px;
+    height: 74px;
+    top: 0px;
+    left: 18px;
+}
+
+#box6>.ladi-box {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, .2);
+    background-color: #fff;
+}
+
+#box6_shape {
+    width: 23.3231px;
+    height: 13.0889px;
+    top: 30.4555px;
+    left: 0px;
+}
+
+#box6_shape>.ladi-shape {
+    transform: rotate(-90deg);
+}
+
+#parasc6 {
+    width: 550px;
+    top: 29.5px;
+    left: 58px;
+}
+
+#parasc6>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+#groupsc6_1 {
+    width: 650px;
+    height: 114px;
+    top: 150.546px;
+    left: 287.329px;
+}
+
+#box7 {
+    width: 632px;
+    height: 114px;
+    top: 0px;
+    left: 18px;
+}
+
+#box7>.ladi-box {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, .2);
+    background-color: #fff;
+}
+
+#box7_shape {
+    width: 23.3231px;
+    height: 20.164px;
+    top: 46.918px;
+    left: 0px;
+}
+
+#box7_shape>.ladi-shape {
+    transform: rotate(-90deg);
+}
+
+#parasc6_1 {
+    width: 550px;
+    top: 29.5px;
+    left: 58px;
+}
+
+#parasc6_1>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+#groupsc6_2 {
+    width: 161px;
+    height: 56px;
+    top: 179.546px;
+    left: 30.329px;
+}
+
+#headlinesc6 {
+    width: 161px;
+    top: 25px;
+    left: 0px;
+}
+
+#headlinesc6>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#parasc6_2 {
+    width: 142px;
+    top: 0px;
+    left: 0px;
+}
+
+#parasc6_2>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#groupsc6_3 {
+    width: 169px;
+    height: 56px;
+    top: 329.546px;
+    left: 30.329px;
+}
+
+#headlinesc6_1 {
+    width: 169px;
+    top: 25px;
+    left: 0px;
+}
+
+#headlinesc6_1>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#parasc6_3 {
+    width: 142px;
+    top: 0px;
+    left: 0px;
+}
+
+#parasc6_3>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#headline14 {
+    width: 806px;
+    top: 67.81px;
+    left: 77px;
+}
+
+#headline14>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#grouplinesc6 {
+    width: 17px;
+    height: 181px;
+    top: 196.546px;
+    left: 224.329px;
+}
+
+#linesc6 {
+    height: 170px;
+    top: 6px;
+    left: 0px;
+}
+
+#linesc6>.ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+
+#linesc6>.ladi-line>.ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+}
+
+#dotsc6 {
+    width: 12px;
+    height: 12px;
+    top: 0px;
+    left: 3px;
+}
+
+#dotsc6_1 {
+    width: 12px;
+    height: 12px;
+    top: 169px;
+    left: 2.5px;
+}
+
+#btn_regsc6 {
+    width: 170px;
+    height: 40px;
+    top: 444.6px;
+    left: 390.728px;
+}
+
+#btn_regsc6>.ladi-button {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#btn_regsc6>.ladi-button>.ladi-button-background {
+    background-color: #f27123;
+}
+
+#btn_regsc6text {
+    width: 168px;
+    top: 9px;
+    left: 0px;
+}
+
+#btn_regsc6text>.ladi-headline {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#section7 {
+    height: 571.9px;
+}
+
+#groupsc7 {
+    width: 369px;
+    height: 369px;
+    top: 79.611px;
+    left: 291.228px;
+}
+
+#box_sc7 {
+    width: 369px;
+    height: 369px;
+    top: 0px;
+    left: 0px;
+}
+
+#box_sc7>.ladi-box {
+    background-color: #eaf2fe;
+    border-radius: 1000px;
+}
+
+#headline_sc7 {
+    width: 332px;
+    top: 131.5px;
+    left: 18.5px;
+}
+
+#headline_sc7>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#groupsc7_1 {
+    width: 384.881px;
+    height: 180.655px;
+    top: 37.784px;
+    left: -0.4395px;
+}
+
+#imagesc7 {
+    width: 181.302px;
+    height: 180.655px;
+    top: 0px;
+    left: 203.579px;
+}
+
+#imagesc7>.ladi-image {
+    border-style: solid;
+    border-color: #0a67e9;
+    border-width: 5px;
+    border-radius: 300px;
+}
+
+#imagesc7>.ladi-image>.ladi-image-background {
+    width: 273.239px;
+    height: 181.977px;
+    top: -1.322px;
+    left: -91.9367px;
+    background-image: url(https://w.ladicdn.com/s600x500/62fa0cac2d1a9600212f9e52/programmer-coding-software-development-working-project-it-20220912100226.jpeg);
+}
+
+#imagesc7_text {
+    width: 219px;
+    height: 101px;
+    top: 55.327px;
+    left: 0px;
+}
+
+#linesc7 {
+    width: 178px;
+    top: 25px;
+    left: 29px;
+}
+
+#linesc7>.ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+}
+
+#linesc7>.ladi-line>.ladi-line-container {
+    border-top: 2px solid #0a67e9;
+    border-right: 2px solid #0a67e9;
+    border-bottom: 2px solid #0a67e9;
+    border-left: 0px !important;
+}
+
+#box_num1 {
+    width: 33px;
+    height: 33px;
+    top: 17.5px;
+    left: 0px;
+}
+
+#box_num1>.ladi-box {
+    background: #fdfbfb;
+    background: linear-gradient(180deg, #fdfbfb, #eaedee);
+    border-style: solid;
+    border-color: #0a67e9;
+    border-width: 2px;
+    border-radius: 1000px;
+}
+
+#groupsc7_title {
+    width: 176px;
+    top: 0px;
+    left: 10px;
+}
+
+#groupsc7_title>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+#parasc7 {
+    width: 144px;
+    top: 42px;
+    left: 44px;
+}
+
+#parasc7>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+}
+
+#headline_number1 {
+    width: 25px;
+    top: 21.5px;
+    left: 4px;
+}
+
+#headline_number1>.ladi-headline {
+    color: #f27123;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#groupsc7_2 {
+    width: 384.881px;
+    height: 180.655px;
+    top: 298.784px;
+    left: -0.439px;
+}
+
+#imagesc7_2 {
+    width: 181.302px;
+    height: 180.655px;
+    top: 0px;
+    left: 203.579px;
+}
+
+#imagesc7_2>.ladi-image {
+    border-style: solid;
+    border-color: #0a67e9;
+    border-width: 5px;
+    border-radius: 300px;
+}
+
+#imagesc7_2>.ladi-image>.ladi-image-background {
+    width: 270.442px;
+    height: 180.655px;
+    top: 0px;
+    left: -27px;
+    background-image: url(https://w.ladicdn.com/s600x500/62fa0cac2d1a9600212f9e52/code-coding-programming-technology-technical-concept-20220912102607.jpeg);
+}
+
+#imagesc7_text1 {
+    width: 219px;
+    height: 120px;
+    top: 55.327px;
+    left: 0px;
+}
+
+#linesc7_1 {
+    width: 178px;
+    top: 25px;
+    left: 29px;
+}
+
+#linesc7_1>.ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+}
+
+#linesc7_1>.ladi-line>.ladi-line-container {
+    border-top: 2px solid #0a67e9;
+    border-right: 2px solid #0a67e9;
+    border-bottom: 2px solid #0a67e9;
+    border-left: 0px !important;
+}
+
+#box_num2 {
+    width: 33px;
+    height: 33px;
+    top: 17.5px;
+    left: 0px;
+}
+
+#box_num2>.ladi-box {
+    background: #fdfbfb;
+    background: -webkit-linear-gradient(180deg, #fdfbfb, #eaedee);
+    background: linear-gradient(180deg, #fdfbfb, #eaedee);
+    border-style: solid;
+    border-color: #0a67e9;
+    border-width: 2px;
+    border-radius: 1000px;
+}
+
+#groupsc7_title1 {
+    width: 176px;
+    top: 0px;
+    left: 0px;
+}
+
+#groupsc7_title1>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+#parasc7_1 {
+    width: 142px;
+    top: 42px;
+    left: 44px;
+}
+
+#parasc7_1>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+}
+
+
+#headline_number2 {
+    width: 25px;
+    top: 21.5px;
+    left: 4px;
+}
+
+#headline_number2>.ladi-headline {
+    color: #f27123;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#groupsc7_3 {
+    width: 392.302px;
+    height: 268.327px;
+    top: 37.784px;
+    left: 560.139px;
+}
+
+#imagesc7_3 {
+    width: 181.302px;
+    height: 180.655px;
+    top: 0px;
+    left: 0px;
+}
+
+#imagesc7_3>.ladi-image {
+    border-style: solid;
+    border-color: #0a67e9;
+    border-width: 5px;
+    border-radius: 300px;
+}
+
+#imagesc7_3>.ladi-image>.ladi-image-background {
+    width: 272.421px;
+    height: 181.977px px;
+    top: 0px;
+    left: -85px;
+    background-image: url(https://w.ladicdn.com/s600x500/62fa0cac2d1a9600212f9e52/smart-positive-smile-asian-male-businessman-video-conference-remote-working-discuss-concersation-about-strategy-business-planing-new-business-startup-ideas-conceptbusiness-meeting-online-via-laptop-20220912101956.jpeg);
+}
+
+#imagesc7_text2 {
+    width: 211px;
+    height: 218px;
+    top: 50.327px;
+    left: 181.302px;
+}
+
+#linesc7_2 {
+    width: 178px;
+    top: 25px;
+    left: 0px;
+}
+
+#linesc7_2>.ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+}
+
+#linesc7_2>.ladi-line>.ladi-line-container {
+    border-top: 2px solid #0a67e9;
+    border-right: 2px solid #0a67e9;
+    border-bottom: 2px solid #0a67e9;
+    border-left: 0px !important;
+}
+
+#groupsc7_title2 {
+    width: 176px;
+    top: 0px;
+    left: -6px;
+}
+
+#groupsc7_title2>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+#parasc7_2 {
+    width: 182px;
+    top: 42px;
+    left: 15px;
+}
+
+#parasc7_2>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+}
+
+#headline_number3 {
+    width: 33px;
+    height: 33px;
+    top: 17.5px;
+    left: 178px;
+}
+
+#box_num3 {
+    width: 33px;
+    height: 33px;
+    top: 0px;
+    left: 0px;
+}
+
+#box_num3>.ladi-box {
+    background: #fdfbfb;
+    background: -webkit-linear-gradient(180deg, #fdfbfb, #eaedee);
+    background: linear-gradient(180deg, #fdfbfb, #eaedee);
+    border-style: solid;
+    border-color: #0a67e9;
+    border-width: 2px;
+    border-radius: 1000px;
+}
+
+#headline_number3_2 {
+    width: 25px;
+    top: 4px;
+    left: 4px;
+}
+
+#headline_number3_2>.ladi-headline {
+    color: #f27123;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#groupsc7_4 {
+    width: 392.302px;
+    height: 235.327px;
+    top: 298.784px;
+    left: 567.14px;
+}
+
+#imagesc7_4 {
+    width: 181.302px;
+    height: 180.655px;
+    top: 0px;
+    left: 0px;
+}
+
+#imagesc7_4>.ladi-image {
+    border-style: solid;
+    border-color: #0a67e9;
+    border-width: 5px;
+    border-radius: 300px;
+}
+
+#imagesc7_4>.ladi-image>.ladi-image-background {
+    width: 272.421px;
+    height: 181.977px;
+    top: 0px;
+    left: -53px;
+    background-image: url(https://w.ladicdn.com/s600x500/62fa0cac2d1a9600212f9e52/woman-wearing-microphone-headset-working-call-center-office-20220912101451.jpeg);
+}
+
+#imagesc7_text3 {
+    width: 211px;
+    height: 183px;
+    top: 52.327px;
+    left: 181.302px;
+}
+
+#linesc7_3 {
+    width: 178px;
+    top: 25px;
+    left: 0px;
+}
+
+#linesc7_3>.ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+}
+
+#linesc7_3>.ladi-line>.ladi-line-container {
+    border-top: 2px solid #0a67e9;
+    border-right: 2px solid #0a67e9;
+    border-bottom: 2px solid #0a67e9;
+    border-left: 0px !important;
+}
+
+#groupsc7_title3 {
+    width: 176px;
+    top: 0px;
+    left: -6px;
+}
+
+#groupsc7_title3>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+#parasc7_3 {
+    width: 188px;
+    top: 46px;
+    left: 15px;
+}
+
+#parasc7_3>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+}
+
+#headline_number4 {
+    width: 33px;
+    height: 33px;
+    top: 17.5px;
+    left: 178px;
+}
+
+#box_num4 {
+    width: 33px;
+    height: 33px;
+    top: 0px;
+    left: 0px;
+}
+
+#box_num4>.ladi-box {
+    background: #fdfbfb;
+    background: linear-gradient(180deg, #fdfbfb, #eaedee);
+    border-style: solid;
+    border-color: #0a67e9;
+    border-width: 2px;
+    border-radius: 1000px;
+}
+
+#headline_number3_4 {
+    width: 25px;
+    top: 4px;
+    left: 4px;
+}
+
+#headline_number3_4>.ladi-headline {
+    color: #f27123;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#btn_sc7 {
+    width: 170px;
+    height: 40px;
+    top: 298.784px;
+    left: 384.442px;
+}
+
+#btn_sc7>.ladi-button {
+    border-style: solid;
+    border-color: #0a509b;
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#btn_sc7text {
+    width: 168px;
+    top: 9px;
+    left: 0px;
+}
+
+#btn_sc7text>.ladi-headline {
+    color: #0a509b;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#section8 {
+    height: 662.701px;
+}
+
+#section8>.ladi-section-background {
+    background-color: rgba(235, 243, 255, .4);
+}
+
+#box_sc8 {
+    width: 791px;
+    height: 662.701px;
+    top: 0px;
+    left: 398px;
+}
+
+#box_sc8>.ladi-box {
+    background-color: #0a509b;
+}
+
+#box_shapesc8 {
+    width: 214.355px;
+    height: 178.623px;
+    top: 0px;
+    left: 1.329px;
+}
+
+#headlinesc8 {
+    width: 242px;
+    top: 229.351px;
+    left: 0px;
+}
+
+#headlinesc8>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+}
+
+#linesc8 {
+    width: 83px;
+    top: 195.16px;
+    left: 1.329px;
+}
+
+#linesc8>.ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+}
+
+#linesc8>.ladi-line>.ladi-line-container {
+    border-top: 2px solid #f27123;
+    border-right: 2px solid #f27123;
+    border-bottom: 2px solid #f27123;
+    border-left: 0px !important;
+}
+
+#sc8_1 {
+    width: 213.504px;
+    height: 550.288px;
+    top: 52.5163px;
+    left: 294.023px;
+}
+
+#box_main {
+    width: 213.504px;
+    height: 507.486px;
+    top: 42.802px;
+    left: 0px;
+}
+
+#box_main>.ladi-box {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, .2);
+    background-color: #fff;
+}
+
+#parasc8_1 {
+    width: 187px;
+    top: 161.644px;
+    left: 15.146px;
+}
+
+
+#parasc8_1>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+#imagesc8_1 {
+    width: 78.6802px;
+    height: 78.6801px;
+    top: 0px;
+    left: 67.412px;
+}
+
+#imagesc8_1>.ladi-image {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 3px;
+    border-radius: 270px;
+}
+
+#imagesc8_1>.ladi-image>.ladi-image-background {
+    width: 97.736px;
+    height: 97.736px;
+    top: -19px;
+    left: -15px;
+    background-image: url(https://w.ladicdn.com/s400x400/5b1605af9066d9507109d716/mai-xuan-kim-20211203180637-20221004011533-7govp.jpeg);
+}
+
+#headlinesc8_1 {
+    width: 205px;
+    top: 112.924px;
+    left: 6.146px;
+}
+
+#headlinesc8_1>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#starsc8_1 {
+    width: 69.5569px;
+    height: 12.8152px;
+    top: 143.198px;
+    left: 71.973px;
+}
+
+#starsc8_1shape {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 0px;
+}
+
+#starsc8_1shape1 {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 14.2391px;
+}
+
+#starsc8_1shape2 {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 43.1922px;
+}
+
+#starsc8_1shape3 {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 28.9528px;
+}
+
+#starsc8_1shape4 {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 56.7417px;
+}
+
+#namesc8_1 {
+    width: 200px;
+    top: 94.8849px;
+    left: 9.24799px;
+}
+
+#namesc8_1>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#sc8_2 {
+    width: 213.504px;
+    height: 550.288px;
+    top: 52.5163px;
+    left: 746.496px;
+}
+
+#box_main1 {
+    width: 213.504px;
+    height: 507.486px;
+    top: 42.8017px;
+    left: 0px;
+}
+
+#box_main1>.ladi-box {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, .2);
+    background-color: #fff;
+}
+
+#parasc8_2 {
+    width: 187px;
+    top: 161.644px;
+    left: 15.146px;
+}
+
+#parasc8_2>.ladi-paragraph {
+    font-family: "Roboto", sans-serif;
+    color: #616161;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+#headlinesc8_2 {
+    width: 205px;
+    top: 112.924px;
+    left: 6.146px;
+}
+
+#headlinesc8_2>.ladi-headline {
+    font-family: "Roboto", sans-serif;
+    color: #0a509b;
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#starsc8_2 {
+    width: 69.5569px;
+    height: 12.8152px;
+    top: 143.198px;
+    left: 71.973px;
+}
+
+#starsc8_2shape {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 0px;
+}
+
+#starsc8_2shape1 {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 14.2391px;
+}
+
+#starsc8_2shape2 {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 43.1922px;
+}
+
+#starsc8_2shape3 {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 28.9528px;
+}
+
+#starsc8_2shape4 {
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 56.7417px;
+}
+
+#namesc8_2{
+    width: 200px;
+    top: 94.8847px;
+    left: 9.248px;
+}
+
+#namesc8_2>.ladi-headline {
+    font-family: "Roboto",sans-serif;
+    color: #0a509b;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#imagesc8_2 {
+    width: 78.6802px;
+    height: 78.6801px;
+    top: 0px;
+    left: 67.412px;
+}
+
+#imagesc8_2>.ladi-image {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 3px;
+    border-radius: 270px;
+}
+
+#imagesc8_2>.ladi-image>.ladi-image-background {
+    width: 78.6802px;
+    height: 104.853px;
+    top: -26px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s400x450/62fa0cac2d1a9600212f9e52/nguyen-son-tung-20211203180637-20220906031259.jpeg);
+}
+
+#sc8_3{
+    width: 213.504px;
+    height: 550.288px;
+    top: 52.5163px;
+    left: 520.023px;
+}
+
+#box_main2 {
+    width: 213.504px;
+    height: 507.486px;
+    top: 42.802px;
+    left: 0px;
+}
+
+#box_main2>.ladi-box {
+    box-shadow: 0px 0px 30px -15px rgba(0,0,0,.2);
+    background-color: #fff;
+}
+
+#parasc8_3 {
+    width: 187px;
+    top: 161.644px;
+    left: 15.146px;
+}
+
+#parasc8_3>.ladi-paragraph {
+    font-family: "Roboto",sans-serif;
+    color: #616161;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+#headlinesc8_3 {
+    width: 205px;
+    top: 112.924px;
+    left: 6.146px;
+}
+
+#headlinesc8_3>.ladi-headline {
+    font-family: "Roboto",sans-serif;
+    color: #0a509b;
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#starsc8_3 {
+    width: 69.5569px;
+    height: 12.8152px;
+    top: 143.198px;
+    left: 71.973px;
+}
+
+#starsc8_3shape{
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 0px;
+}
+
+#starsc8_3shape1{
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 14.2391px;
+}
+
+#starsc8_3shape2{
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 43.1922px;
+}
+
+#starsc8_3shape3{
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 28.9528px;
+}
+
+#starsc8_3shape4{
+    width: 12.8152px;
+    height: 12.8152px;
+    top: 0px;
+    left: 56.7417px;
+}
+
+#namesc8_3{
+    width: 200px;
+    top: 94.8847px;
+    left: 9.248px;
+}
+
+#namesc8_3>.ladi-headline {
+    font-family: "Roboto",sans-serif;
+    color: #0a509b;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#imagesc8_3 {
+    width: 78.6802px;
+    height: 78.6801px;
+    top: 0px;
+    left: 67.412px;
+}
+
+#imagesc8_3>.ladi-image {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 3px;
+    border-radius: 270px;
+}
+
+#imagesc8_3>.ladi-image>.ladi-image-background {
+    width: 78.6802px;
+    height: 78.6801px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s400x400/5b1605af9066d9507109d716/nguyen-tran-phoi-20211203180637-20221004011533-g3pr9.jpeg);
+}
+
+#btn_sc8{
+    width: 170px;
+    height: 40px;
+    top: 378.716px;
+    left: 0px;
+}
+
+#btn_sc8>.ladi-button {
+    border-style: solid;
+    border-color: #0a509b;
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#btn_sc8>.ladi-button>.ladi-button-background {
+    background-color: rgba(255,255,255,0);
+}
+
+#btn_sc8text{
+    width: 168px;
+    top: 9px;
+    left: 0px;
+}
+
+#btn_sc8text>.ladi-headline {
+    color: #0a509b;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#section9{
+    height: 766px;
+}
+
+#section9>.ladi-section-background {
+    background-color: #fff;
+}
+
+#carouselsc9{
+    width: 960px;
+    height: 132px;
+    top: 214.515px;
+    left: 0px;
+}
+
+.ladi-carousel {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    touch-action: pan-y;
+}
+
+.ladi-carousel .ladi-carousel-content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    transition: left 350ms ease-in-out;
+}
+
+#headline_sc9{
+    width: 699px;
+    height: 132.05px;
+    top: 52.99px;
+    left: 130.5px;
+}
+
+#headline_sc9_1 {
+    width: 667px;
+    top: 0px;
+    left: 16px;
+}
+
+#headline_sc9_1>.ladi-headline {
+    font-family: "Roboto",sans-serif;
+    color: #0a509b;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#parasc9 {
+    width: 699px;
+    top: 81.05px;
+    left: 0px;
+}
+
+#parasc9>.ladi-paragraph {
+    font-family: "Roboto",sans-serif;
+    color: #424242;
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#btn_sc9{
+    width: 170px;
+    height: 40px;
+    top: 650.015px;
+    left: 395px;
+}
+
+#btn_sc9>.ladi-button {
+    border-style: solid;
+    border-color: #0a509b;
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#btn_sc9>.ladi-button>.ladi-button-background {
+    background-color: rgba(255,255,255,0);
+}
+
+#btn_sc9text {
+    width: 168px;
+    top: 9px;
+    left: 0px;
+}
+
+#btn_sc9text>.ladi-headline {
+    color: #0a509b;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#btn_6m{
+    width: 387px;
+    height: 40px;
+    top: auto;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    position: fixed;
+    margin: 0px auto;
+}
+
+#btn_6m>.ladi-button {
+    border-style: solid;
+    border-color: #eaf2fe;
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#btn_6m>.ladi-button>.ladi-button-background {
+    background-color: #0a509b;
+}
+
+#btn_6mtext{
+    width: 385px;
+    top: 9px;
+    left: 0px;
+}
+
+#btn_6mtext>.ladi-headline {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#section10{
+    height: 561px;
+}
+
+#section10>.ladi-section-background {
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(https://w.ladicdn.com/s1440x561/62fa0cac2d1a9600212f9e52/v617batch2-kul-01-technology-20220906042447.jpg);
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+
+#section10>.ladi-overlay {
+    background-color: rgba(10,80,155,.9);
+}
+
+.ladi-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+}
+
+#formsc10{
+    width: 383.28px;
+    height: 267.5px;
+    top: 190.495px;
+    left: 0px;
+}
+
+#formsc10>.ladi-form {
+    color: #848484;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1.6;
+}
+
+#fromsc10_btn {
+    width: 382.61px;
+    height: 40px;
+    top: 227.5px;
+    left: 0.256026px;
+}
+
+#fromsc10_btn>.ladi-button {
+    border-radius: 0px;
+}
+
+.ladi-form .ladi-button {
+    cursor: pointer;
+}
+
+#fromsc10_btn>.ladi-button>.ladi-button-background {
+    background-color: #f27123;
+}
+
+#fromsc10_btntext{
+    width: 383px;
+    top: 9px;
+    left: 0px;
+}
+
+#fromsc10_btntext>.ladi-headline {
+    font-family: "Roboto",sans-serif;
+    color: #fff;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#fromsc10_name{
+    width: 380.418px;
+    height: 40px;
+    top: 0px;
+    left: 0.032526px;
+}
+
+#formsc10 .ladi-form-item-container, #formsc10 .ladi-form-label-container .ladi-form-label-item {
+    border-color: #0a67e9;
+    border-width: 1px;
+    border-radius: 0px;
+}
+
+#formsc10 .ladi-form-item-background {
+    background-color: #fff;
+}
+
+#fromsc10_name .ladi-form-item {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.ladi-form .ladi-form-item .ladi-form-control {
+    background-color: transparent;
+    min-width: 100%;
+    min-height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+    height: 100%;
+    padding: 0 5px;
+    color: inherit;
+    font-size: inherit;
+    border: none;
+}
+
+.ladi-form .ladi-form-item-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+}
+
+.ladi-form .ladi-form-item {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#fromsc10_mail{
+    width: 380.762px;
+    height: 40px;
+    top: 100px;
+    left: 0px;
+}
+
+#fromsc10_phone{
+    width: 380.782px;
+    height: 40px;
+    top: 50px;
+    left: 0px;
+}
+
+#fromsc10_ms{
+    width: 383.247px;
+    height: 69px;
+    top: 149.5px;
+    left: 0.032526px;
+}
+
+.ladi-form .ladi-form-item textarea.ladi-form-control {
+    resize: none;
+    padding: 5px;
+}
+
+#headlinesc10{
+    width: 490px;
+    top: 45.995px;
+    left: 0px;
+}
+
+#headlinesc10>.ladi-headline {
+    font-family: "Roboto",sans-serif;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+    text-shadow: #f44025 1px 2px 3px;
+}
+
+#imagesc10{
+    width: 437.762px;
+    height: 563.4px;
+    top: -5.4px;
+    left: 470px;
+}
+
+#imagesc10>.ladi-image>.ladi-image-background {
+    width: 437.762px;
+    height: 563.4px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s750x900/5b1605af9066d9507109d716/young-asian-businesswoman-using-laptop-20220922081639-dxche.png);
+}
+
+#parasc10{
+    width: 341px;
+    top: 482.441px;
+    left: 10px;
+}
+
+#parasc10>.ladi-paragraph {
+    font-family: "Roboto",sans-serif;
+    color: #eee;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+#section11 {
+    height: 104px;
+}
+
+#section11>.ladi-section-background {
+    background-color: #0a509b;
+}
+
+#headlinesc11 {
+    width: 383px;
+    top: 19px;
+    left: 577px;
+}
+
+#headlinesc11>.ladi-headline {
+    font-family: "Roboto",sans-serif;
+    color: #fff;
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#imagesc11{
+    width: 94.3541px;
+    height: 41.0833px;
+    top: 9.45835px;
+    left: 0px;
+}
+
+#imagesc11>.ladi-image>.ladi-image-background {
+    width: 94.3541px;
+    height: 41.0833px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s400x350/62fa0cac2d1a9600212f9e52/funix-full-logo-white-copy-1-20220905124907.png);
+}
