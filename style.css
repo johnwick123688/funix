@@ -4552,11 +4552,28 @@ ul {
     background-color: #fff;
 }
 
-#carouselsc9 {
+#CAROUSEL222,
+#CAROUSEL232,
+#CAROUSEL239 {
     width: 960px;
     height: 132px;
-    top: 214.515px;
-    left: 0px;
+}
+
+@media (max-width: 767px) {
+
+    #CAROUSEL222,
+    #CAROUSEL232,
+    #CAROUSEL239 {
+        width: 386.915px;
+        height: 100px;
+    }
+}
+
+@media (max-width: 768px) {
+    #CAROUSEL222 {
+        top: 214.515px;
+        left: 17.877px;
+    }
 }
 
 .ladi-carousel {
@@ -4575,12 +4592,107 @@ ul {
     transition: left 350ms ease-in-out;
 }
 
+@media (max-width: 767px) {
+    .ladi-carousel .ladi-carousel-content {
+        transition: left 300ms ease-in-out;
+    }
+}
+
+.ladi-carousel .ladi-carousel-arrow-left {
+    left: 5px;
+    transform: rotateY(180deg);
+}
+
+.ladi-carousel .ladi-carousel-arrow-right {
+    left: 5px;
+}
+
+.ladi-carousel .ladi-carousel-arrow {
+    position: absolute;
+    top: calc(50% - (33px) / 2);
+    cursor: pointer;
+    4 z-index: 15;
+    width: 33px;
+    height: 33px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#IMAGE223,
+#IMAGE240 {
+    width: 180px;
+    height: 50px;
+    top: 41px;
+    left: 37px;
+}
+
+@media (max-width: 767px) {
+    #IMAGE223 {
+        top: 27.112px;
+        left: 5px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    #IMAGE223,
+    #IMAGE223>.ladi-image>.ladi-image-background {
+        width: 173.316px;
+        height: 45.776px;
+    }
+}
+
 #headline_sc9 {
     width: 699px;
     height: 132.05px;
     top: 52.99px;
     left: 130.5px;
 }
+
+#IMAGE223>.ladi-image>.ladi-image-background,
+#IMAGE240>.ladi-image>.ladi-image-background {
+    width: 180px;
+    height: 48.4211px;
+}
+
+#IMAGE223>.ladi-image>.ladi-image-background {
+    background-image: url(https://w.ladicdn.com/s500x350/62fa0cac2d1a9600212f9e52/1_mnazzgxla7pq-iv343oq-g2x-20210323192313-20220905100130.png);
+}
+
+
+#IMAGE224 {
+    width: 200px;
+    height: 50px;
+    top: 41px;
+    left: 276px;
+}
+
+@media (max-width: 767px) {
+    #IMAGE224 {
+        width: 161.896px;
+        height: 68.112px;
+        top: 0px;
+        left: 208px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE224>.ladi-image>.ladi-image-background {
+        width: 200px;
+        height: 117.047px;
+        top: -33px;
+        background-image: url(https://w.ladicdn.com/s550x450/62fa0cac2d1a9600212f9e52/logo-2019-569x333-20210323192603-20220905100130.png)
+    }
+}
+
+@media (max-width: 767px) {
+    #IMAGE224>.ladi-image>.ladi-image-background {
+        width: 161.896px;
+        height: 87.8861px;
+        background-image: url(https://w.ladicdn.com/s550x450/62fa0cac2d1a9600212f9e52/logo-2019-569x333-20210323192603-20220905100130.png)
+    }
+}
+
 
 @media (max-width: 767px) {
     #headline_sc9 {
@@ -4590,6 +4702,132 @@ ul {
         left: 23.3345px;
     }
 }
+
+@media (min-width: 768px) {
+
+    #IMAGE225,
+    #IMAGE242 {
+        width: 122.5px;
+        height: 49px;
+        top: 41px;
+        left: 574px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE225>.ladi-image>.ladi-image-background {
+        background-image: url(https://w.ladicdn.com/s450x400/62fa0cac2d1a9600212f9e52/vsii-company-logo-1-20210618100905-20220905125411.png);
+    }
+}
+
+@media (min-width: 768px) {
+
+    #IMAGE226,
+    #IMAGE236 {
+        top: 49px;
+        left: 792px;
+    }
+}
+
+@media (min-width: 768px) {
+
+    #IMAGE226,
+    #IMAGE236,
+    #IMAGE243 {
+        width: 168px;
+        height: 42px;
+    }
+}
+
+@media (min-width: 768px) {
+
+    #IMAGE226>.ladi-image>.ladi-image-background,
+    #IMAGE236>.ladi-image>.ladi-image-background {
+        left: -0.851407px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE226>.ladi-image>.ladi-image-background {
+        width: 168.852px;
+        height: 42px;
+        background-image: url(https://w.ladicdn.com/s500x350/62fa0cac2d1a9600212f9e52/logo-black-20210323193006-20220905100130.png);
+    }
+}
+
+@media (min-width: 768px) {
+
+    #IMAGE227,
+    #IMAGE244 {
+        width: 131.25px;
+        height: 46.875px;
+        top: 49px;
+        left: 1061px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE227>.ladi-image>.ladi-image-background {
+        width: 131.915px;
+        height: 43.004px;
+        left: -0.665162px;
+    }
+}
+
+#IMAGE227>.ladi-image>.ladi-image-background {
+    background-image: url(https://w.ladicdn.com/s450x350/62fa0cac2d1a9600212f9e52/logo-reco-4x-20210422153104-20220905101749.png);
+}
+
+@media (min-width: 768px) {
+
+    #IMAGE228,
+    #IMAGE245 {
+        top: 41.875px;
+        left: 1305.28px;
+    }
+}
+
+@media (min-width: 768px) {
+
+    #IMAGE228,
+    #IMAGE238,
+    #IMAGE245 {
+        width: 141.953px;
+        height: 49.375px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE228>.ladi-image>.ladi-image-background {
+        width: 141.953px;
+        height: 44.0458px;
+    }
+}
+
+#IMAGE228>.ladi-image>.ladi-image-background {
+    background-image: url(https://w.ladicdn.com/s450x350/62fa0cac2d1a9600212f9e52/enouvo-logo-20210422152814-20220905101329.png);
+}
+
+@media (min-width: 768px) {
+    #IMAGE228>.ladi-image>.ladi-image-background {
+        top: 0px;
+    }
+}
+
+@media (min-width: 768px) {
+    #CAROUSEL232 {
+        top: 478.515px;
+        left: 0px;
+    }
+}
+
+@media (max-width: 767px) {
+    #CAROUSEL232 {
+        top: 444.845px;
+        left: 15.4195px;
+    }
+}
+
 
 #headline_sc9_1 {
     width: 667px;
@@ -4603,6 +4841,265 @@ ul {
         left: 0px;
     }
 }
+
+@media (min-width: 768px) {
+    #IMAGE233 {
+        width: 138.75px;
+        height: 50.875px;
+        top: 41px;
+        left: 59px;
+    }
+}
+
+@media (max-width: 767px) {
+    #IMAGE233 {
+        width: 129.947px;
+        height: 46.651px;
+        top: 30px;
+        left: 27px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE233>.ladi-image>.ladi-image-background {
+        width: 138.75px;
+        height: 51.6458px;
+        background-image: url(https://w.ladicdn.com/s450x400/62fa0cac2d1a9600212f9e52/logo-bap-software-1-20210422153219-20220905125411.png)
+    }
+}
+
+@media (max-width: 768px) {
+    #IMAGE233>.ladi-image>.ladi-image-background {
+        width: 129.947px;
+        height: 47.4893px;
+        background-image: url(https://w.ladicdn.com/s450x400/62fa0cac2d1a9600212f9e52/logo-bap-software-1-20210422153219-20220905125411.png)
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE234 {
+        width: 168.847px;
+        height: 54.875px;
+        top: 38.5625px;
+        left: 296.615px;
+    }
+}
+
+@media (max-width: 768px) {
+    #IMAGE234 {
+        width: 106.578px;
+        height: 65.0625px;
+        top: 17.4688px;
+        left: 237.457px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE234>.ladi-image>.ladi-image-background {
+        width: 168.847px;
+        height: 168.847px;
+        top: -54.0308px;
+        background-image: url(https://w.ladicdn.com/s500x500/62fa0cac2d1a9600212f9e52/106987309_2023479137796794_5362369626791287737_n-20210422153855-20220905125411.jpeg);
+    }
+}
+
+@media (max-width: 768px) {
+    #IMAGE234>.ladi-image>.ladi-image-background {
+        width: 106.578px;
+        height: 106.578px;
+        top: -16px;
+        background-image: url(https://w.ladicdn.com/s500x500/62fa0cac2d1a9600212f9e52/106987309_2023479137796794_5362369626791287737_n-20210422153855-20220905125411.jpeg);
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE235 {
+        width: 172.5px;
+        height: 69px;
+        top: 22px;
+        left: 538.906px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE235>.ladi-image>.ladi-image-background {
+        width: 172.5px;
+        height: 77.5284px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE235>.ladi-image>.ladi-image-background {
+        left: 0px;
+    }
+}
+
+#IMAGE235>.ladi-image>.ladi-image-background {
+    background-image: url(https://w.ladicdn.com/s500x400/62fa0cac2d1a9600212f9e52/logo-1-20210618101625-20220905130031.png);
+}
+
+@media (min-width: 768px) {
+    #IMAGE236>.ladi-image>.ladi-image-background {
+        width: 168.852px;
+        height: 41.7687px;
+        background-image: url(https://w.ladicdn.com/s500x350/62fa0cac2d1a9600212f9e52/logo-1-20210618100905-20220905130031.png);
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE237 {
+        width: 170px;
+        height: 43px;
+        top: 45.0625px;
+        left: 1040px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE237>.ladi-image>.ladi-image-background {
+        width: 171.512px;
+        height: 43.9773px;
+        top: -0.977317px;
+        left: -0.594256px;
+    }
+}
+
+#IMAGE237>.ladi-image>.ladi-image-background {
+    background-image: url(https://w.ladicdn.com/s500x350/62fa0cac2d1a9600212f9e52/sweetsoft-logo-20210618100905-20220905130207.png);
+}
+
+@media (min-width: 768px) {
+    #IMAGE238 {
+        top: 38.5625px;
+        left: 1305.28px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE238>.ladi-image>.ladi-image-background {
+        width: 141.953px;
+        height: 42.1803px;
+        top: 7.19468px;
+        background-image: url(https://w.ladicdn.com/s450x350/62fa0cac2d1a9600212f9e52/logo_chainos-20211108151834-20220905130513.png);
+    }
+}
+
+@media (min-width: 768px) {
+    #CAROUSEL239 {
+        top: 346.515px;
+        left: 0px;
+    }
+}
+
+@media (max-width: 767px){
+    #CAROUSEL239 {
+        top: 328.472px;
+        left: 17.877px;
+    }
+}
+
+@media (max-width: 767px){
+    #IMAGE240 {
+        top: 31.1745px;
+        left: 15px;
+    }
+}
+
+@media (max-width: 767px){
+    #IMAGE240, #IMAGE240>.ladi-image>.ladi-image-background {
+        width: 161.489px;
+        height: 47.651px;
+    }
+}
+
+#IMAGE240>.ladi-image>.ladi-image-background {
+    background-image: url(https://w.ladicdn.com/s500x350/62fa0cac2d1a9600212f9e52/vietclever-20210422154656-20220905125411.png);
+}
+
+@media (min-width: 768px) {
+    #IMAGE241 {
+        width: 153.929px;
+        height: 53.875px;
+        top: 39.625px;
+        left: 304px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    #IMAGE241 {
+        top: 29.5px;
+        left: 214px;
+    }
+}
+
+@media (max-width: 767px){
+    #IMAGE241, #IMAGE241>.ladi-image>.ladi-image-background {
+        width: 141px;
+        height: 51px;
+    }
+}
+
+@media (max-width: 767px){
+    #IMAGE241, #IMAGE241>.ladi-image>.ladi-image-background {
+        background-image: url(https://w.ladicdn.com/s450x400/62fa0cac2d1a9600212f9e52/codluck-20210422154603-20220905125411.png);
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE241>.ladi-image>.ladi-image-background {
+        width: 153.929px;
+        height: 55.2948px;
+        top: -0.769643px;
+        background-image: url(https://w.ladicdn.com/s500x400/62fa0cac2d1a9600212f9e52/codluck-20210422154603-20220905125411.png);
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE242>.ladi-image>.ladi-image-background {
+        background-image: url(https://w.ladicdn.com/s450x400/62fa0cac2d1a9600212f9e52/nal-logo-20210323192745-20220905100130.jpeg);
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE243 {
+        top: 49px;
+        left: 777px;
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE243>.ladi-image>.ladi-image-background {
+        width: 168.852px;
+        height: 168.852px;
+        top: -63px;
+        left: -0.852px;
+        background-image: url(https://w.ladicdn.com/s500x500/62fa0cac2d1a9600212f9e52/innocom-logo-tk0in-20210618101327-20220905125411.png);
+    }
+}
+
+@media (min-width: 768px) {
+    #IMAGE244>.ladi-image>.ladi-image-background {
+        width: 131.915px;
+        height: 50.0732px;
+        top: -1px;
+        left: -0.665px;
+        background-image: url(https://w.ladicdn.com/s450x400/62fa0cac2d1a9600212f9e52/amela-technology-20210422154229-20220905125411.png);
+    }
+}
+
+#IMAGE245>.ladi-image>.ladi-image-background {
+    background-image: url(https://w.ladicdn.com/s450x400/62fa0cac2d1a9600212f9e52/tai-xuong-20210422154053-20220905125411.png);
+}
+
+@media (min-width: 768px) {
+    #IMAGE245>.ladi-image>.ladi-image-background {
+        width: 141.953px;
+        height: 55.3577px;
+        top: -3px;
+    }
+}
+
 
 #headline_sc9_1>.ladi-headline {
     font-family: "Roboto", sans-serif;
