@@ -1457,14 +1457,14 @@ ul {
     left: 33px;
 }
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
     #shape_tk1 {
         top: 210.519px;
         left: 25.1638px;
         width: 8.38795px;
         height: 8.3879px;
     }
-}
+} */
 
 #shape_tk2 {
     width: 76.5294px;
@@ -1539,12 +1539,12 @@ ul {
     padding-left: 18px;
 }
 
-#list_para1 ul li:before {
+/* #list_para1 ul li:before {
     content: counter(linum, disc);
     color: rgba(5, 34, 74, 1.0);
     font-size: 20px;
     top: -3px;
-}
+} */
 
 #shape_img {
     width: 31.3411px;
@@ -1673,11 +1673,11 @@ ul {
     padding-left: 18px;
 }
 
-#list_para2 ul li:before {
+/* #list_para2 ul li:before {
     content: counter(linum, disc);
     color: rgba(5, 34, 74, 1.0);
     font-size: 20px;
-}
+} */
 
 #para7 {
     width: 180px;
@@ -1723,12 +1723,12 @@ ul {
     left: 32.265px;
 }
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
     #shape_dot {
         top: 210.519px;
         left: 27.6034px;
     }
-}
+} */
 
 #group_tk2 {
     width: 248px;
@@ -1812,13 +1812,13 @@ ul {
     padding-bottom: 13px;
     padding-left: 18px;
 }
-
+/* 
 #list_para3 ul li:before {
     content: counter(linum, disc);
     color: rgba(5, 34, 74, 1.0);
     font-size: 20px;
     top: -3px;
-}
+} */
 
 #para8 {
     width: 180px;
@@ -1866,14 +1866,14 @@ ul {
     left: 32.765px;
 }
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
     #shape_dot1 {
         width: 8.38793px;
         height: 8.3879px;
         top: 237.385px;
         left: 24.9846px;
     }
-}
+} */
 
 #group_tk3 {
     width: 247.529px;
@@ -1952,12 +1952,12 @@ ul {
     line-height: 1.6;
 }
 
-#list_para4 ul li:before {
+/* #list_para4 ul li:before {
     content: counter(linum, disc);
     color: rgba(5, 34, 74, 1.0);
     font-size: 20px;
     top: -3px;
-}
+} */
 
 #list_para4 ul li {
     padding-bottom: 13px;
@@ -2011,14 +2011,14 @@ ul {
     left: 33.765px;
 }
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
     #shape_dot2 {
         width: 8.38795px;
         height: 8.38796px;
         top: 242.178px;
         left: 25.7472px;
     }
-}
+} */
 
 #group_headline7 {
     width: 502px;
@@ -2178,6 +2178,14 @@ ul {
     line-height: 1.2;
 }
 
+
+@media (max-width: 767px) {
+    #headline9>.ladi-headline {
+        font-size: 20px;
+    }
+}
+
+
 #headline10 {
     width: 841px;
     top: 109.379px;
@@ -2205,7 +2213,6 @@ ul {
         font-size: 14px;
     }
 }
-
 
 #group_headline9 {
     width: 226.75px;
