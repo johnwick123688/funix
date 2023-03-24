@@ -305,10 +305,9 @@
 }
 
 @media (max-width: 767px) {
-
     #maintitle2>.ladi-headline,
     #ladi-headline>.ladi-headline {
-        font-size: 24px;
+        font-size: 22px;
     }
 }
 
