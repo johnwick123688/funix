@@ -1587,6 +1587,12 @@ ul {
     line-height: 1.2;
 }
 
+@media (max-width: 767px) {
+    #para6>.ladi-paragraph {
+        font-size: 16px;
+    }
+}
+
 #group_tk1 {
     width: 248px;
     height: 287.076px;
@@ -1700,6 +1706,12 @@ ul {
     font-weight: bold;
     text-align: left;
     line-height: 1.2;
+}
+
+@media (max-width: 767px) {
+    #para7>.ladi-paragraph {
+        font-size: 16px;
+    }
 }
 
 #shape_img1 {
@@ -1841,6 +1853,12 @@ ul {
     font-weight: bold;
     text-align: left;
     line-height: 1.2;
+}
+
+@media (max-width: 767px) {
+    #para8>.ladi-paragraph {
+        font-size: 16px;
+    }
 }
 
 #shape_img2 {
@@ -1985,6 +2003,12 @@ ul {
     font-weight: bold;
     text-align: left;
     line-height: 1.2;
+}
+
+@media (max-width: 767px) {
+    #para9>.ladi-paragraph {
+        font-size: 16px;
+    }
 }
 
 #shape_img3 {
