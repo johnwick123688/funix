@@ -83,15 +83,16 @@
     }
 }
 
-.ladi-logo .ladi-logo-background {
+.ladi-logo-background img{
     position: absolute;
-    width: 100%;
-    height: 100%;
-    background-image: url(https://w.ladicdn.com/s450x350/62fa0cac2d1a9600212f9e52/funix-full-logo-white-copy-1-20220905124907.png);
+    width: 140%;
     background-position: left top;
     background-size: cover;
     background-repeat: no-repeat;
     pointer-events: none;
+    top: 55%;
+    bottom: 50%;
+    transform: translateY(-50%);
 }
 
 .ladi-group {
@@ -1234,7 +1235,7 @@
 
 @media (max-width: 767px) {
     #para5 {
-        width: 198px;
+        width: 215px;
         top: 13.458px;
         left: 0px;
     }
@@ -3523,6 +3524,14 @@ ul {
     left: 0px;
 }
 
+@media (max-width: 768px) {
+    #groupsc7_title1 {
+        width: 176px;
+        top: 0px;
+        left: -55px;
+    }
+}
+
 #groupsc7_title1>.ladi-headline {
     font-family: "Roboto", sans-serif;
     color: #6d1269;
@@ -3940,7 +3949,7 @@ ul {
 #headlinesc8>.ladi-headline {
     font-family: "Roboto", sans-serif;
     color: #6d1269;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
     text-align: left;
     line-height: 1.4;
@@ -4597,6 +4606,10 @@ ul {
         width: 386.915px;
         height: 100px;
     }
+}
+
+#CAROUSEL222{
+    top: 215px;
 }
 
 @media (max-width: 768px) {
@@ -5597,24 +5610,22 @@ ul {
 }
 
 #imagesc11 {
-    width: 94.3541px;
-    height: 41.0833px;
-    top: 9.45835px;
+    width: 140px;
+    height: 45px;
+    top: 25px;
     left: 0px;
 }
 
 @media (max-width: 767px) {
     #imagesc11 {
+        width: 150px;
         top: 22px;
-        left: 163.197px;
+        left: 135px;
     }
 }
 
-
-#imagesc11>.ladi-image>.ladi-image-background {
-    width: 94.3541px;
-    height: 41.0833px;
+#imagesc11>.ladi-image>.ladi-image-background img {
+    width: 100%;
     top: 0px;
     left: 0px;
-    background-image: url(https://w.ladicdn.com/s400x350/62fa0cac2d1a9600212f9e52/funix-full-logo-white-copy-1-20220905124907.png);
 }
