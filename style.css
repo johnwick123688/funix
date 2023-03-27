@@ -5514,7 +5514,7 @@ ul {
 @media (max-width: 767px) {
     #headlinesc10>.ladi-headline {
         font-size: 30px;
-        line-height: 1;
+        line-height: 1.4;
         text-align: center;
     }
 
@@ -5531,7 +5531,7 @@ ul {
     #imagesc10 {
         top: 493.892px;
         left: 3.551px;
-        width: 412.898px;
+        width: 420px;
         height: 531.4px;
     }
 }
@@ -5541,7 +5541,11 @@ ul {
     height: 563.4px;
     top: 0px;
     left: 0px;
-    background-image: url(https://w.ladicdn.com/s750x900/5b1605af9066d9507109d716/young-asian-businesswoman-using-laptop-20220922081639-dxche.png);
+}
+
+#imagesc10>.ladi-image>.ladi-image-background img{
+    width: 100%;
+    object-fit: cover;
 }
 
 #parasc10 {
